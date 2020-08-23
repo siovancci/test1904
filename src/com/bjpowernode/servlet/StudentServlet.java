@@ -24,6 +24,7 @@ public class StudentServlet extends HttpServlet {
 
     private int selectStudent(HttpServletRequest request, HttpServletResponse response) {
         System.out.println("执行查询操作");
+        System.out.println("更新一下让git可以重新推送");
         return 0;
     }
 
